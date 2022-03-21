@@ -27,3 +27,18 @@ This example trains a spatiospectral super-resolution network on the [CAVE datas
 
 ### Test
 `python main.py --mode 0 --nEpochs 100`
+
+
+The code is for the work:
+
+```
+@article{liang2021BaMBNet,
+  title={Multi-task Interaction learning for Spatiospectral Image Super-Resolution},
+  author={Qing Ma, Junjun Jiang, Xianming Liu, and Jiayi Ma},
+  journal={IEEE Transactions on Image Processing},
+  volume={},
+  number={},
+  pages={},
+  year={2022},
+}
+```

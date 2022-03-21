@@ -29,7 +29,7 @@ This example trains a spatiospectral super-resolution network on the [CAVE datas
 `python main.py --mode 0 --nEpochs 100`
 
 
-The code is for the work:
+## The code is for the work:
 
 ```
 @article{liang2021BaMBNet,

@@ -14,7 +14,7 @@ optional arguments:
   --batchSize           training batch size
   --testBatchSize       testing batch size
   --nEpochs             number of epochs to train for
-  --lr                  Learning Rate. Default=0.01
+  --lr                  Learning Rate. Default=0.0001
   --threads             number of threads for data loader to use Default=4
   --seed                random seed to use. Default=123
 ```

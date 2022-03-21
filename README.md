@@ -32,7 +32,7 @@ This example trains a spatiospectral super-resolution network on the [CAVE datas
 ## The code is for the work:
 
 ```
-@article{ma2022,
+@article{ma2022multi,
   title={Multi-task Interaction learning for Spatiospectral Image Super-Resolution},
   author={Qing Ma, Junjun Jiang, Xianming Liu, and Jiayi Ma},
   journal={IEEE Transactions on Image Processing},

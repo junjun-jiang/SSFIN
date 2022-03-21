@@ -23,7 +23,7 @@ This example trains a spatiospectral super-resolution network on the [CAVE datas
 
 ### Train
 
-`python main.py --upscale_factor 2 --batchSize 4 --nEpochs 30 --lr 0.001`
+`python main.py`
 
 ### Test
 `python main.py --mode 0 --nEpochs 100`
